@@ -7,7 +7,7 @@ const GRAVITY_VEC = Vector2(0, 900)
 const FLOOR_NORMAL = Vector2(0, -1)
 
 const STATE_WALKING = 0
-const STATE_KILLED = 1
+const STATE_KILLED = 1 
 const WALK_SPEED = 70 
 
 var linear_velocity = Vector2()
